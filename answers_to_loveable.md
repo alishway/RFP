@@ -17,18 +17,18 @@ Once validated, subsequent workflows—such as procurement review, compliance ch
 Yes, compliance is critical for public sector procurement in Canada. Key regulations and policy frameworks to research and integrate include:
 
 - **Federal Level:**
-  - *Directive on the Management of Procurement* (Treasury Board of Canada Secretariat): Sets out requirements for fairness, openness, transparency, and value for money in federal procurement[1].
-  - *Government Contracts Regulations* (SOR/87-402): Governs the entry into contracts for goods, services, and construction[2].
-  - *Code of Conduct for Procurement*: Covers conflict of interest, anti-corruption, and ethical conduct[3].
-  - *Relevant Trade Agreements*: CFTA (Canadian Free Trade Agreement), CETA (Canada-EU), and others impose requirements on open competition and minimum posting periods[4][5].
+  - *Directive on the Management of Procurement* (Treasury Board of Canada Secretariat): Sets out requirements for fairness, openness, transparency, and value for money in federal procurement[1]. Refer:  https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32692
+  - *Government Contracts Regulations* (SOR/87-402): Governs the entry into contracts for goods, services, and construction[2]. Refer to: 'https://laws-lois.justice.gc.ca/eng/Regulations/SOR-87-402/index.html'
+  - *Code of Conduct for Procurement*: Covers conflict of interest, anti-corruption, and ethical conduct[3]. Refer to: 'https://opo-boa.gc.ca/lrpa-rarp-eng.html'
+  - *Relevant Trade Agreements*: CFTA (Canadian Free Trade Agreement), CETA (Canada-EU), and others impose requirements on open competition and minimum posting periods[4][5]. Refer to these links: 'https://www.blakes.com/doing-business-in-canada-guide/section-v-procurement/' and 'https://www.fasken.com/en/knowledge/doing-business-in-canada/19-procurement'
 
 - **Ontario (Broader Public Sector):**
-  - *Broader Public Sector (BPS) Procurement Directive*: Applies to hospitals, school boards, colleges, universities, and other designated organizations[4][6].
-  - *Supply Ontario Procurement Policy Restriction (U.S. Businesses)*: As of March 2025, restricts procurement from U.S. businesses for designated BPS organizations[6].
+  - *Broader Public Sector (BPS) Procurement Directive*: Applies to hospitals, school boards, colleges, universities, and other designated organizations[4][6]. Refer to these links: 'https://www.blakes.com/doing-business-in-canada-guide/section-v-procurement/' and 'https://www.supplyontario.ca/wp-content/uploads/US-Procurement-Restriction-Policy-FAQs-March-4-2025-EN-1.pdf'
+  - *Supply Ontario Procurement Policy Restriction (U.S. Businesses)*: As of March 2025, restricts procurement from U.S. businesses for designated BPS organizations[6]. Refer to : 'https://www.supplyontario.ca/wp-content/uploads/US-Procurement-Restriction-Policy-FAQs-March-4-2025-EN-1.pdf'
 
 - **Other Considerations:**
   - Ensure the application supports audit trails, segregation of duties, and retention of procurement records as mandated by these regulations.
-  - Review the *Procurement Ombudsman*’s guidance on restrictive requirements and dispute resolution[3].
+  - Review the *Procurement Ombudsman*’s guidance on restrictive requirements and dispute resolution[3]. Refer to: 'https://opo-boa.gc.ca/lrpa-rarp-eng.html'
 
 ### 3. Would you like to see a technical architecture diagram adapted for the Lovable platform?
 
